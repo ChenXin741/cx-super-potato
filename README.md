@@ -45,6 +45,6 @@ __粗体文本__
 ___粗斜体文本___
 RUNOOB.COM
 GOOGLE.COM
-~~BAIDU.COM~~
+~~BAIDU.COM~~  
 
 <center>markdown居中文本</center>
