@@ -44,4 +44,6 @@ RUNOOB.COM
 GOOGLE.COM
 ~~BAIDU.COM~~
 
-<u>Underlined Text</u>
+<u>Underlined Text</u>  
+
+<center>居中的展示效果</center>
