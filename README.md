@@ -47,4 +47,4 @@ RUNOOB.COM
 GOOGLE.COM
 ~~BAIDU.COM~~
 
-<u>Underlined Text</u>
+<center>Center Text</center>
