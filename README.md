@@ -47,4 +47,4 @@ RUNOOB.COM
 GOOGLE.COM
 ~~BAIDU.COM~~
 
-<center>Center Text</center>
+< center>markdown居中文本< /center>
