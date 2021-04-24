@@ -12,8 +12,8 @@ My first repository
 我展示的是二级标题
 -----------------
 > 区块引用
-> hello
-> do  you love me?
+> hello 
+> do  you love me? 
 
 * 第一项
 * 第二项
@@ -22,7 +22,6 @@ My first repository
 + 第一项
 + 第二项
 + 第三项
-
 
 - 第一项
 - 第二项
@@ -33,7 +32,7 @@ My first repository
 |  表头   | 表头  |
 |  ----  | ----  |
 | 单元格  | 单元格 |
-| 单元格  | 单元格 
+| 单元格  | 单元格 |
 *斜体文本*
 _斜体文本_
 **粗体文本**
